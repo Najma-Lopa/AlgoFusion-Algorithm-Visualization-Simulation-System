@@ -60,6 +60,10 @@ The development of **AlgoFusion** incorporates robust, modern technologies to en
 
 ## 3. SDLC Phases
 
+![sdlc_waterfall_model](https://github.com/user-attachments/assets/67c7c268-645a-4776-8868-6a5e88d589f1)
+
+Fig: Waterfall Model
+
 ### 1. Planning
 
 **Objective**:  
